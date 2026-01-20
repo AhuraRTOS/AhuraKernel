@@ -1,7 +1,8 @@
 
 /*
-  AhuraRTOS
-  Port for ARM-GCC-CM3
+ *  AhuraRTOS
+ *  Port for ARM-GCC-CM3
+ *
  */
 
 #ifndef _AOS_PORT_H_

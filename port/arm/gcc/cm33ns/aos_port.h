@@ -1,7 +1,7 @@
 
 /*
  *  AhuraRTOS
- *  Port for ARM-GCC-CM7
+ *  Port for ARM-GCC-CM33NS
  *
  */
 

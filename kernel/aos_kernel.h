@@ -1,4 +1,4 @@
-#ifndef _AOS_WORK_H_
-#define _AOS_WORK_H_
+#ifndef _AOS_KERNEL_H_
+#define _AOS_KERNEL_H_
 
 #endif

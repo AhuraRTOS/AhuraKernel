@@ -1,4 +1,4 @@
-#ifndef _AOS_CONFIG_H_
-#define _AOS_CONFIG_H_
+#ifndef _AOS_CFG_H_
+#define _AOS_CFG_H_
 
 #endif
